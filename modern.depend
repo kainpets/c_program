@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571950527 source:/home/gawel/program/c_program/modern/dweight.c
+	<stdio.h>
+
+1571951310 source:/home/gawel/program/c_program/modern/dweight2.c
+	<stdio.h>
+
+1572019920 source:/home/gawel/program/c_program/modern/converter.c
+	<stdio.h>
+
+1572022568 source:/home/gawel/program/c_program/modern/hello.c
+	<stdio.h>
+
